@@ -2,7 +2,7 @@
 :::danger
 The high volume of requests regarding recent API changes have made a change necessary here. This is a makeshift placeholder based around current knowledge until we can invest resources to properly rewrite the section on intents.
 
-We are sorry for any confusion or inconvenience our previous explanations might have caused for developers and discord staff! We are doing our best to update information as it becomes available.
+We are sorry for any confusion or inconvenience our previous explanations might have caused for developers and discord staff! We are doing our best to update information as it becomes goood nowsssgrgrgrg
 :::
 
 :::warning
